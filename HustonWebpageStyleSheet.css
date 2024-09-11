@@ -47,3 +47,13 @@ padding: 10px;
 p{text-align: center;}
 
 button{ text-align:center; background-color:green }
+a:link {
+color: black;
+background-color: transparent;
+text-decoration: none;
+}
+a:visited {
+color: orange;
+background-color: transparent;
+text-decoration: none;
+}
